@@ -1,4 +1,4 @@
-# https://paste.ubuntu.com/p/PBDbmzw5FN/
+# https://paste.ubuntu.com/p/rVyyQK8D5T/
 # 批量修改文件名
 import os
 
